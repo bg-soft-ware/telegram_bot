@@ -156,17 +156,6 @@ Resources
   The code for these examples is released to the public domain, so you can start by grabbing the code and building on top of it.
 - The `official Telegram Bot API documentation <https://core.telegram.org/bots/api>`_ is of course always worth a read.
 
-Getting help
-============
-
-If the resources mentioned above don't answer your questions or simply overwhelm you, there are several ways of getting help.
-
-1. We have a vibrant community of developers helping each other in our `Telegram group <https://telegram.me/pythontelegrambotgroup>`_. Join us! Asking a question here is often the quickest way to get a pointer in the right direction.
-
-2. Ask questions by opening `a discussion <https://github.com/python-telegram-bot/python-telegram-bot/discussions/new>`_.
-
-3. You can even ask for help on Stack Overflow using the `python-telegram-bot tag <https://stackoverflow.com/questions/tagged/python-telegram-bot>`_.
-
 Concurrency
 ===========
 
